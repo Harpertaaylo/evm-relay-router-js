@@ -15,3 +15,4 @@
 - Update note 1838
 - Update note 2826
 - Update note 7403
+- Update note 6527
